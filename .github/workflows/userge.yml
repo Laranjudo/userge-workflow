@@ -8,7 +8,7 @@ on:
     
 env:
   GitHubMail: "laranjudo@github.com"
-  GitHubName: "shitonown1" 
+  GitHubName: "qqq" 
 jobs:
   build:
     runs-on: ubuntu-18.04
